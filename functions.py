@@ -15,7 +15,6 @@ def write_todos(todos_arg, filepath=FILEPATH,):
         local_file_two.writelines(todos_arg)
 
 
-"""
+
 if __name__ == "__main__":
     print("Welcome to To-do app")
-"""
